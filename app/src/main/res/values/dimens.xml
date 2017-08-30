@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="menu_item_padding">10dp</dimen>
+    <dimen name="menu_margin_left">10dp</dimen>
+    <dimen name="profile_menu_background_height">200dp</dimen>
+    <dimen name="profile_avatar_width">80dp</dimen>
+    <dimen name="menu_avatar_margin_top">160dp</dimen>
+</resources>
